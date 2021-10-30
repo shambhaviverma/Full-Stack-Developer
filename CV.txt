@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>CV Shambhavi Verma</title>
+</head>
+
+<body>
+<h2>MBA TECH. COMPUTER ENGINEERING</h2>
+<h3>Name:- Shambhavi Verma</h3>
+<h3><u>OBJECTIVE:</u></h3>
+<p>To secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company</p>
+<h3><u>EDUCATION:</u></h3>
+
+	<table style="width:100%" border=1>
+		<tr>
+		    <th>Degree</th>
+		    <th>Institute</th>	    
+		    <th>Board/University</th>
+		    <th>CGPA</th>
+		    <th>Year</th>
+		</tr>
+		<tr>
+		    <td>MBA Tech</td>
+		    <td>Narsee Monjee Institute of Management Studies</td>
+		    <td>Autonomous</td>
+		    <td>3.64</td>
+		    <td>Currently Pursuing</td>
+		</tr>
+		<tr>
+		    <td>XII</td>
+		    <td>St. Michael's High School</td>
+		    <td>CBSE</td>
+		    <td>82.6%</td>
+		    <td>2018</td>  
+		</tr>
+		<tr>
+		    <td>X</td>
+		    <td>St. Karen's High School</td>
+		    <td>CBSE</td>
+		    <td>10 CGPA</td>
+		    <td>2016</td>  
+		</tr>
+	</table>
+
+<h3><u>TECHNICAL SKILLS:</u></h3>
+
+	<table style="width:100%" border="1">
+	<tr>
+		<th>Domain</th>
+		<th>Details</th>
+	</tr>
+	<tr>
+		<td>Languages</td>
+		<td>C,Java,Python</td>
+	</tr>
+	<tr>
+		<td>Web Designing</td>
+		<td>Problem Solving,Detail Oriented</td>
+	</tr>
+	<tr>
+		<td>Software</td>
+		<td>NewGen,Jupyter Notebook</td>
+	</tr>
+	<tr>
+		<td>Database</td>
+		<td>MySQL,Oracle RDBMS</td>
+	</tr>
+	<tr>
+		<td>Operating System</td>
+		<td>Windows,Mac OS</td>
+	</tr>
+	</table>
+
+<h3><u>KEY PROJECTS:</u></h3>
+
+	<table style="width:100%" border="1">
+	<tr>
+		<th>Project Title</th>
+		<th>Duration</th>	    
+		<th>Platform Used</th>
+		<th>Brief Description</th>		
+	</tr>
+	<tr>
+		<td>Net Banking Project </td>
+		<td>3 months</td>
+		<td>Python</td>
+		<td>This is an Internet Banking website by which the bank customers can use services like Balance Enquiry, Fund Transfer, Statement view, Bill pay etc. from the convenience of their home.</td>	
+	</tr>
+	<tr>
+		<td>Backend Developer for fintechnews.com</td>
+		<td>2 months</td>
+		<td>MySQL, Python</td>
+		<td>Created a content management system serving the backend with up to date technologies and framework.</td>	
+	</tr>
+	</table>
+
+<h3><u>TECHNICAL-PRESENTATION/WORKSHOPS/CERTIFICATION:</u></h3>
+<ul>
+	<li>Workshop on Funding Methods and Schemes for Startup – “PITCH PERFECT”</li>
+	<li>Workshop on Web Development,HTML,CSS and JS at My Captain</li>
+	<li>Certification at Udemy in: Complete Python Bootcamp, Web Develpment Course</li>
+
+</ul>
+<h3><u>TECHNICAL-WORK EXPERIENCE/INTERNSHIPS:</u></h3>
+<ul>
+	<li>Industrial Automation Internship at Thermonix Technologies</li>
+
+</ul>
+</body>
+</html>
